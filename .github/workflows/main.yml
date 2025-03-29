@@ -1,0 +1,21 @@
+Udemy Clone (HTML & CSS)
+This is a simple yet effective Udemy clone built with HTML and CSS. The project replicates the basic layout and user interface of Udemy, an online learning platform. It focuses on creating a clean and responsive design using only HTML and CSS, providing a user-friendly experience across both desktop and mobile devices.
+
+Features:
+Homepage Design: A homepage layout similar to Udemy's, featuring course categories, banners, and highlighted courses.
+
+Course Preview Page: A basic course page with course details, instructor information, and course preview options.
+
+Responsive Layout: The design is fully responsive, adapting to various screen sizes, ensuring it works well on both desktop and mobile devices.
+
+Navigation Bar: A functional navigation bar with links to various sections, such as courses, categories, and the user's account.
+
+Footer Design: A clean and informative footer with links to additional resources.
+
+Tech Stack:
+HTML: For structuring the web pages and elements.
+
+CSS: For styling the layout, including fonts, colors, and responsive design.
+
+Responsive Design: Media queries are used to ensure the design works on different screen sizes (mobile, tablet, desktop).
+
